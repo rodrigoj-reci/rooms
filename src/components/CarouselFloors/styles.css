@@ -1,0 +1,14 @@
+.Carousel {
+  width: 100%;
+}
+
+.CarouselItem {
+  background-color: black;
+  height: 400px;
+  padding: 50px 0;
+}
+
+.ItemContainer {
+  display: flex;
+  justify-content: center;
+}
